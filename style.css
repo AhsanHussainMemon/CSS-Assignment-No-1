@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(224, 224, 222);
+}
+
+button{
+    height: 40px;
+    width: 60px;
+    background-color: black;
+}
+button:hover{
+    background-color: rgb(212, 212, 212);
+    color: rgb(255, 248, 248);
+}
+.First{
+background-color: pink;
+color: maroon;
+}
+.Second{
+    color:rgb(138, 137, 137);
+}
+
+.Third{
+    color:rgb(138, 137, 137);
+}
+
+.Fourth{
+    background-color: white;
+    color: goldenrod;
+}
+
+.Fifth{
+    color:rgb(138, 137, 137);
+}
